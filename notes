@@ -1,0 +1,18 @@
+https://heartbeat.fritz.ai/how-to-build-a-web-app-with-react-native-b93575a16a5e
+
+1) npm install -g create-react-app expo
+
+
+2) create-react-app myAPpName
+    cd into your app ...!!!
+3) yarn add --dev babel-plugin-module-resolver
+
+4) yarn add react-native expo react-native-web
+
+//DEV:
+yarn start 
+
+//BUILD: 
+yarn build
+yarn global add serve 
+serve -s buildasdf
